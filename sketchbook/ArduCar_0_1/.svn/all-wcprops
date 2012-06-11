@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1529/branches/ArduPilot_2_7
+END
+GPS_None.pde
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/GPS_None.pde
+END
+ArduPilot_2_7.pde
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1517/branches/ArduPilot_2_7/ArduPilot_2_7.pde
+END
+GCS_Jason_text.pde
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/GCS_Jason_text.pde
+END
+AP_Config_xplane.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/AP_Config_xplane.h
+END
+servos.pde
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1508/branches/ArduPilot_2_7/servos.pde
+END
+attitude.pde
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/attitude.pde
+END
+GCS_Xplane.pde
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/GCS_Xplane.pde
+END
+system.pde
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1517/branches/ArduPilot_2_7/system.pde
+END
+debug.pde
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1528/branches/ArduPilot_2_7/debug.pde
+END
+EEPROM.pde
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/EEPROM.pde
+END
+timing.pde
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/timing.pde
+END
+GPS_NMEA.pde
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/GPS_NMEA.pde
+END
+AP_PID_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/AP_PID_settings.h
+END
+GCS_None.pde
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/GCS_None.pde
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/defines.h
+END
+sensors.pde
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1500/branches/ArduPilot_2_7/sensors.pde
+END
+waypoints.pde
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/waypoints.pde
+END
+radio.pde
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/radio.pde
+END
+navigation.pde
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/navigation.pde
+END
+GCS_Standard_text.pde
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1508/branches/ArduPilot_2_7/GCS_Standard_text.pde
+END
+GPS_Sim.pde
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/GPS_Sim.pde
+END
+GPS_UBLOX.pde
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/GPS_UBLOX.pde
+END
+GPS_IMU.pde
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/GPS_IMU.pde
+END
+GPS_EM406.pde
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/GPS_EM406.pde
+END
+events.pde
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/events.pde
+END
+AP_Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1561/branches/ArduPilot_2_7/AP_Config.h
+END
+GPS_MTK.pde
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1529/branches/ArduPilot_2_7/GPS_MTK.pde
+END
+control_modes.pde
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1497/branches/ArduPilot_2_7/control_modes.pde
+END

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 89
+SkyFun 2.h
+SkyFun.h
+SkyFun_2.h
+Superstar.h
+applet
+GCS_Jason_binary.pde
+AP_Config_jason.h
+
+END
